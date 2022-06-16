@@ -1,0 +1,6 @@
+denumire,repartizare,valoare
+Apa calda,persoane,800
+Caldura,suprafata,300
+Caldura,suprafata,300
+Caldura,suprafata,300
+Caldura,persoane,600

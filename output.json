@@ -1,0 +1,37 @@
+{"cheia-listaobiectelor": [
+        {
+                "numar": 1,
+                "suprafata": 100,
+                "numar_persoane": 1
+        },
+        {
+                "numar": 2,
+                "suprafata": 50,
+                "numar_persoane": 1
+        },
+        {
+                "numar": 3,
+                "suprafata": 75,
+                "numar_persoane": 2
+        },
+        {
+                "numar": 4,
+                "suprafata": 75,
+                "numar_persoane": 2
+        },
+        {
+                "numar": 5,
+                "suprafata": 375,
+                "numar_persoane": 2
+        },
+        {
+                "numar": 6,
+                "suprafata": 75,
+                "numar_persoane": 2
+        },
+        {
+                "numar": 7,
+                "suprafata": 75,
+                "numar_persoane": 2
+        }
+]}

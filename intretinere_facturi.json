@@ -1,0 +1,27 @@
+[
+  {
+    "denumire": "Apa calda",
+    "repartizare": "persoane",
+    "valoare": 800
+  },
+  {
+    "denumire": "Caldura",
+    "repartizare": "suprafata",
+    "valoare": 300
+  },
+  {
+    "denumire": "Caldura",
+    "repartizare": "suprafata",
+    "valoare": 300
+  },
+  {
+    "denumire": "Caldura",
+    "repartizare": "suprafata",
+    "valoare": 300
+  },
+  {
+    "denumire": "Caldura",
+    "repartizare": "persoane",
+    "valoare": 600
+  }
+]
